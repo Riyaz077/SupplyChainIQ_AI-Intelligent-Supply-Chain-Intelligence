@@ -419,13 +419,11 @@ Potential development directions include:
 
 ---
 
-## About the Developer
+## Author
 
-**Mohamed Riyaz S.**
-
-Integrated M.Tech — Computer Science and Engineering  
-Specialization in Business Analytics  
-VIT Chennai
+**Mohamed Riyaz S.**  
+Integrated M.Tech – Computer Science and Engineering (Business Analytics)  
+Vellore Institute of Technology (VIT), Chennai
 
 **Technical Interests:** Machine Learning · Predictive Analytics · Business Intelligence · Data Science · AI-Powered Decision Systems
 
