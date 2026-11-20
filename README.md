@@ -5,25 +5,17 @@
   <strong>See Risk Earlier. Optimize Inventory. Strengthen Supply Chain Decisions.</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visualization-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge" />
-</p>
+
 
 ---
 
 ## Overview
 
-**SupplyChainIQ AI** is an interactive supply chain intelligence platform designed to demonstrate how machine learning and advanced analytics can improve operational visibility, supplier evaluation, inventory planning and risk assessment.
-
-The platform integrates predictive delivery-delay modelling, supplier performance analytics, inventory health monitoring, anomaly detection and interactive scenario planning into a unified enterprise-style dashboard.
+**SupplyChainIQ AI** is an interactive supply chain intelligence platform designed to demonstrate how machine learning and advanced analytics can improve operational visibility, supplier evaluation, inventory planning and risk assessment. The platform integrates predictive delivery-delay modelling, supplier performance analytics, inventory health monitoring, anomaly detection and interactive scenario planning into a unified enterprise-style dashboard.
 
 Built with Python, Streamlit, Scikit-learn, Pandas, NumPy and Plotly, it transforms simulated operational data into meaningful analytical insights through an intuitive, premium dashboard experience.
 
-> **Live Demo:** [Add your deployed Render URL here]
+> **Live Demo:** https://supplychainiq-ai.onrender.com/ 
 
 > **Data Transparency:** This project uses synthetically generated operational data. It is an interactive portfolio demonstrator, not a live enterprise supply chain integration.
 
