@@ -1,0 +1,4 @@
+date,supplier,region,category,demand_units,inventory_units,lead_time_days,unit_cost,on_time_rate,quality_rate,disruption_flag,delivery_delay_days
+2025-01-01,Apex Components,South,Electronics,240,180,12.5,84.50,0.91,0.97,0,1.1
+2025-01-02,Northstar Logistics,West,Industrial,310,120,18.0,42.75,0.82,0.94,1,7.8
+2025-01-03,Vertex Materials,North,Packaging,155,260,8.0,18.20,0.96,0.99,0,0.4
