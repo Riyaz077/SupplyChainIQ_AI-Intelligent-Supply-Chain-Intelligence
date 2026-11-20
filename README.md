@@ -1,12 +1,6 @@
 # SupplyChainIQ AI
 ### Intelligent Supply Chain Analytics & Predictive Intelligence Platform
 
-<p align="center">
-  <strong>See Risk Earlier. Optimize Inventory. Strengthen Supply Chain Decisions.</strong>
-</p>
-
-
-
 ---
 
 ## Overview
